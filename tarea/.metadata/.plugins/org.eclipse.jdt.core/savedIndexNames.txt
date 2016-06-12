@@ -1,0 +1,20 @@
+INDEX VERSION 1.127+F:\EGCC\JAVA_FOR_ME_02\tarea\.metadata\.plugins\org.eclipse.jdt.core
+167246742.index
+16544771.index
+3584724836.index
+129652757.index
+3322721961.index
+2348425655.index
+1970323107.index
+3067315838.index
+1201096014.index
+435863760.index
+751089009.index
+2418943529.index
+2858693774.index
+1362961656.index
+2701012507.index
+712672351.index
+1457084861.index
+1470174543.index
+3711522458.index
